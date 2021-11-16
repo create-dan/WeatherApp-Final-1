@@ -1,0 +1,10 @@
+## 6 NOV  Total video length = 2 h 16 minutes
+
+## 7 NOV  1.2.22
+
+clip-path: polygon(0 0, 100% 0%, 0 100%, 0% 100%);
+
+
+## 9 NOV 1.30.00
+
+## 10 NOV  1.45.00
